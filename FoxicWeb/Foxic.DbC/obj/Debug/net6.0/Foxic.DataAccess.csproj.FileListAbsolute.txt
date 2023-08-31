@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\bin\Debug\net6.0\Foxic.DataAccess.deps.json
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\bin\Debug\net6.0\Foxic.DataAccess.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\bin\Debug\net6.0\Foxic.DataAccess.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\bin\Debug\net6.0\Foxic.Core.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\bin\Debug\net6.0\Foxic.Core.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\refint\Foxic.DataAccess.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\Foxic.DataAccess.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.DbC\obj\Debug\net6.0\ref\Foxic.DataAccess.dll

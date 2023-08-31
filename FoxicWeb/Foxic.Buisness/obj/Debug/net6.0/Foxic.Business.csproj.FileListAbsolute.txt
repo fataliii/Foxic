@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.Business.deps.json
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.Business.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.Business.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.Core.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.DataAccess.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.DataAccess.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\bin\Debug\net6.0\Foxic.Core.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\refint\Foxic.Business.dll
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\Foxic.Business.pdb
+C:\Users\ASUS\source\repos\Foxic.UI\Foxic.Buisness\obj\Debug\net6.0\ref\Foxic.Business.dll
